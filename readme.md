@@ -1,6 +1,10 @@
-###This is Deins Kindzulis first repo and readme file.
+#Šis ir mans otrais mājas darbs
+## 200 vārdu apraksts par mani
+Šeit rakstām tekstu par sevi.....
 
-This is second commit
-this is new text
 
-this is change from my branch
+
+Ieliekam kādu linku https://github.com/VUMC-ATP3/deins.kindzulis
+
+
+Ieliekam kādu bildi ![img.png](img.png)
